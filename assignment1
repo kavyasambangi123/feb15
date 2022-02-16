@@ -1,0 +1,9 @@
+a=int(input('enter a number'))
+b=int(input('enter a number'))
+c=a+b
+print(c)
+enter a number
+2
+enter a number
+4
+6
